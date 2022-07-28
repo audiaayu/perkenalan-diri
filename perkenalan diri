@@ -1,0 +1,12 @@
+int main(){
+    string nama;
+    string kelas;
+    string jurusan;
+
+    cout<<"masukan data berikut"<<endl;
+    cin>>nama;
+    cout<<"naama kelas :"<<endl;
+    cin>>kelas;
+    cout<<"jurusan :"<<endl;
+    cin>>jurusan;
+}
